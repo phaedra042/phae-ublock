@@ -1,0 +1,5 @@
+! don't download the paywall
+www.odt.co.nz##.bw-lb
+www.odt.co.nz##.bw-container
+www.otd.co.nz##html,body:style(overflow: auto !important;)
+||my.odt.co.nz/bwtw/Content/bwtw.css$stylesheet
