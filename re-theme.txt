@@ -1,10 +1,7 @@
 !Dark Mode for otago web page.. remove the blinding blue
 www.otago.ac.nz##div.primary-nav-wrapper:style(background-color:#000000  !important)
 www.otago.ac.nz##.page-banner--with-breadcrumb.page-banner--overlay-.page-banner:style(background-color:#000000  !important)
-!www.otago.ac.nz###cct-component_559621 > .card-wrapper.no-wysiwyg > .card-wrapper__head > .card-wrapper__head__title:style(color:#ffffff !important)
-!www.otago.ac.nz##.card-wrapper--image.card-wrapper.no-wysiwyg > .card-wrapper__head > .card-wrapper__head__title:style(color:#ffffff !important)
-!www.otago.ac.nz###cct-component_3117 > div.card-wrapper.no-wysiwyg > .card-wrapper__head > .card-wrapper__head__title:style(color:#ffffff !important)
-www.otago.ac.nz##.card-wrapper__head__title:style(color:#ffffff !important)
+www.otago.ac.nz##.card-wrapper__head__title:style(color:##060d87 !important)
 www.otago.ac.nz##.page-banner--with-breadcrumb.page-banner--overlay-.page-banner:style(background-image: none !important)
 www.otago.ac.nz##.page-type--page.page-layout--full.page-layout:style(background-color:#00000  !important)
 www.otago.ac.nz##.page-type--page.page-layout--full.page-layout:style(background-image: none !important)
