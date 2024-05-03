@@ -9,4 +9,4 @@ www.otago.ac.nz##.page-type--page.page-layout--full.page-layout:style(background
 www.otago.ac.nz##.page-type--page.page-layout--full.page-layout:style(background-image: none !important)
 www.otago.ac.nz##.mega-menu__main:style(background-color:#000000  !important)
 www.otago.ac.nz##.header-search:style(background-color:#000000  !important)
-
+www.otago.ac.nz##.page-body:style(background-color:#cccccc  !important)
