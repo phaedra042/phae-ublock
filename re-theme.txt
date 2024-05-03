@@ -3,6 +3,7 @@ www.otago.ac.nz##div.primary-nav-wrapper:style(background-color:#000000  !import
 www.otago.ac.nz##.page-banner--with-breadcrumb.page-banner--overlay-.page-banner:style(background-color:#000000  !important)
 www.otago.ac.nz##.card-wrapper__head__title:style(color:##060d87 !important)
 www.otago.ac.nz##.card-wrapper__head:style(color:##060d87 !important)
+www.otago.ac.nz##.card-wrapper--link.card-wrapper.no-wysiwyg > .card-wrapper__head > .card-wrapper__head__title:style(color:##060d87 !important)
 www.otago.ac.nz##.page-banner--with-breadcrumb.page-banner--overlay-.page-banner:style(background-image: none !important)
 www.otago.ac.nz##.page-type--page.page-layout--full.page-layout:style(background-color:#00000  !important)
 www.otago.ac.nz##.page-type--page.page-layout--full.page-layout:style(background-image: none !important)
