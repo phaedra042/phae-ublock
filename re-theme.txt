@@ -13,6 +13,6 @@ www.otago.ac.nz##.page-body:style(background-color:#cccccc  !important)
 www.otago.ac.nz##.aside-nav__top-level-wrapper:style(background-color:#eeeeee  !important)
 
 !jira too much white
-jira.otago.ac.nz##.aui-dropdown2-trigger-group.aui-header:style(background-color:#73FBFD  !important)
+jira.otago.ac.nz##.aui-dropdown2-trigger-group.aui-header:style(background-color:#e7eBeD  !important)
 jira.otago.ac.nz##.ui-sidebar-scrollable.navigator-sidebar:style(background-color:#e7eBeD  !important)
 jira.otago.ac.nz##.ia-scrollable-section.acs-side-bar:style(background-color:#e7eBeD  !important)
