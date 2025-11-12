@@ -7,6 +7,7 @@ www.otd.co.nz##html,body:style(overflow: auto !important;)
 !hearald
 www.nzherald.co.nz##.zephr-nzh-paywall
 www.nzherald.co.nz##.p:style(display:block  !important)
+www.nzherald.co.nz##p:remove-class(UYVxLGUpqoLIsFLR)
 
 
 ! garmin promoting their paid bullshit
