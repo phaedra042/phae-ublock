@@ -10,7 +10,7 @@ www.nzherald.co.nz##.zephr-nzh-paywall
     body p {
         color: red !important;
         class: "" !important;
-        style: "display: block;";
+        style: "display: block;" !important;
     }
 }
 
