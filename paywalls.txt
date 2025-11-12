@@ -6,7 +6,7 @@ www.otd.co.nz##html,body:style(overflow: auto !important;)
 
 !hearald
 www.nzherald.co.nz##.zephr-nzh-paywall
-www.nzherald.co.nz##div:remove-class(article-paywall-hide)
+!www.nzherald.co.nz##div:remove-class(article-paywall-hide)
 www.nzherald.co.nz##p:remove-class(UYVxLGUpqoLIsFLR)
 
 
