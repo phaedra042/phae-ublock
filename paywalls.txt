@@ -4,5 +4,10 @@ www.odt.co.nz##.bw-container
 www.otd.co.nz##html,body:style(overflow: auto !important;)
 ||my.odt.co.nz/bwtw/Content/bwtw.css$stylesheet
 
+!hearald
+www.nzherald.co.nz##.zephr-nzh-paywall
+
+
+
 ! garmin promoting their paid bullshit
 connect.garmin.com##.PromoCard_cardWrapper__c8GNP
