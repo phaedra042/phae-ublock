@@ -6,13 +6,7 @@ www.otd.co.nz##html,body:style(overflow: auto !important;)
 
 !hearald
 www.nzherald.co.nz##.zephr-nzh-paywall
-@-moz-document domain(www.nzherald.co.nz) {
-    body p {
-        color: red !important;
-        class: "" !important;
-        style: "display: block;" !important;
-    }
-}
+www.nzherald.co.nz##p:nth-of-type(2):style(display:block  !important)
 
 
 ! garmin promoting their paid bullshit
