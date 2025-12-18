@@ -10,6 +10,8 @@ www.nzherald.co.nz##p:remove-class(UYVxLGUpqoLIsFLR)
 !these are variable length ids, and are periodically randomised.
 www.nzherald.co.nz##p:remove-class(/(.{18}|.{16})/)
 !so far i've seen 2 lengths
+!nuclear option
+www.nzherald.co.nz##p:remove-class(/.*/)
 www.nzherald.co.nz##div:remove-class(article-paywall-hide)
 www.nzherald.co.nz##p:remove-attr(style)
 
