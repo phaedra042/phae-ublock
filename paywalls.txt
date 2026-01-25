@@ -15,7 +15,12 @@ www.nzherald.co.nz##p:remove-class(/.*/)
 www.nzherald.co.nz##div:remove-class(article-paywall-hide)
 www.nzherald.co.nz##p:remove-attr(style)
 
-
-
 ! garmin promoting their paid bullshit
 connect.garmin.com##.PromoCard_cardWrapper__c8GNP
+
+!The nation
+www.thenation.com###paywall-register-anon
+www.thenation.com##.lightbox-container.tn-lightbox
+||www.thenation.com/wp-content/themes/thenation-2023/js/paywall/main.js
+
+
