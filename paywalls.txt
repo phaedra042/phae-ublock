@@ -20,4 +20,6 @@ www.thenation.com###paywall-register-anon
 www.thenation.com##.lightbox-container.tn-lightbox
 ||www.thenation.com/wp-content/themes/thenation-2023/js/paywall/main.js
 
+! 26 Jan 2026 https://www.thepress.co.nz
+www.thepress.co.nz###offer-
 
