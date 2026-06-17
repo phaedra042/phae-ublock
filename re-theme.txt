@@ -22,3 +22,6 @@ jira.otago.ac.nz##quickSearchInput:style(color:#000000 !important)
 ! garmin promoting their paid bullshit
 connect.garmin.com##.PromoCard_cardWrapper__c8GNP
 connect.garmin.com##.PromoCard_cardWrapperLarge__upSrq
+
+!ai summary removal
+otagouni.atlassian.net##div[data-testid="ai-summary"], div[data-testid="comment-summary-container"], div[data-testid="ai-mate-summary"]
