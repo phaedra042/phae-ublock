@@ -24,4 +24,5 @@ connect.garmin.com##.PromoCard_cardWrapper__c8GNP
 connect.garmin.com##.PromoCard_cardWrapperLarge__upSrq
 
 !ai summary removal
-otagouni.atlassian.net##div[data-testid="ai-summary"], div[data-testid="comment-summary-container"], div[data-testid="ai-mate-summary"]
+otagouni.atlassian.net##._1pfh1ejb > ._1bsb1wug._1pbypt6a._19bvv77o._n3tdv77o._u5f3v77o._ca0qv77o._kqswh2mm._1e0c1txw._2rko1mok > ._4t3i1osq._1bsb1osq._154iidpf._1ltvidpf._16qsglyw._kqswstnw._2rko1mok > g > path
+otagouni.atlassian.net##._1pfh1ejb > ._1bsb1wug._1pbypt6a._19bvv77o._n3tdv77o._u5f3v77o._ca0qv77o._kqswh2mm._1e0c1txw._2rko1mok > ._1bsb1osq._1pbypt6a._16jlkb7n._bfhkvuon._2rko1qi0
