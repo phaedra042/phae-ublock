@@ -12,13 +12,6 @@ www.otago.ac.nz##.header-search:style(background-color:#000000  !important)
 www.otago.ac.nz##.page-body:style(background-color:#cccccc  !important)
 www.otago.ac.nz##.aside-nav__top-level-wrapper:style(background-color:#eeeeee  !important)
 
-!jira too much white
-jira.otago.ac.nz##.aui-dropdown2-trigger-group.aui-header:style(background-color:#e7eBeD  !important)
-jira.otago.ac.nz##.ui-sidebar-scrollable.navigator-sidebar:style(background-color:#e7eBeD  !important)
-jira.otago.ac.nz##.ia-scrollable-section.acs-side-bar:style(background-color:#e7eBeD  !important)
-jira.otago.ac.nz##quickSearchInput:style(color:#000000 !important)
-
-
 ! garmin promoting their paid bullshit
 connect.garmin.com##.PromoCard_cardWrapper__c8GNP
 connect.garmin.com##.PromoCard_cardWrapperLarge__upSrq
